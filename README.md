@@ -41,4 +41,8 @@ ON clique sur "Outils" dans le coin supérieur droit, puis ON sélectionne "Gest
    - Connectez-vous à un ordinateur en tant qu'utilisateur pour lequel la GPO est censée s'appliquer et vérifiez que les restrictions sont en place et que l'icône du Panneau de configuration est masquée.
    - 
 ![image](https://github.com/manmaryem/Active-Directory-Group-Policy-Object-GPO-/assets/137881827/eadaf601-8a76-4d7d-a3de-823832a04f16)
+![image](https://github.com/manmaryem/Active-Directory-Group-Policy-Object-GPO-/assets/137881827/fe6a1f63-fad1-433c-a76a-a869f5658d03)
+![image](https://github.com/manmaryem/Active-Directory-Group-Policy-Object-GPO-/assets/137881827/99cb62a9-a231-4697-bdb6-ba741ace2a5f)
+
+
 
